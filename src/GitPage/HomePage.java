@@ -7,6 +7,7 @@ public class HomePage {
 		String  uername = "sushant";
 		String password = "Yadav";
 		System.out.println("Loggedd in....");
+		System.out.println("Loggedd outs....");
 	}
 
 }
